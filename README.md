@@ -1,2 +1,6 @@
 # BLOG_PROJECT
-This is quora like app build using django 
+
+This is a configurable quora app for Django.
+Here is an example website
+
+My websites have used django-bootstrap3 for the front end.
